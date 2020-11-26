@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A 自定义TextIputFormatter动态限制小数输入精度.
 
 ## Getting Started
 
